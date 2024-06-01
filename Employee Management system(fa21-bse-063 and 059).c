@@ -1,6 +1,5 @@
                                             /*EMPLOYEES MANAGEMENT SYSTEM*/
 /*Name: Hafiz Muhammad Zaman Khan                          Reg no:FA21-BSE-063                         Section:B */
-/*Name: Ammar Ahmed                                        Reg no:FA21-BSE-59                          Section:B */
 
 
 #include <stdio.h>                   //including all the necessary header files
