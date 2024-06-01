@@ -78,7 +78,7 @@ ID    Name        Department  Salary
 ## Technologies Used
 
 - **Programming Language**: C
-- **Database**: In-memory data storage (list/array)
+- **Database**: In-memory data storage (array) and then on your local storage using file management.
 - **Environment**: Command Line Interface (CLI)
 
 ## Contributing
@@ -94,5 +94,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to my professors and peers for their guidance and support during the development of this project.
 
 ---
-
-Feel free to customize this description further to better fit your needs.
